@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+#    url:  ${DB_URL}
+#    username: ${DB_NAME}
+#    password: ${DB_PASSWORD}
+      url: jdbc:postgresql://localhost:35432/coursework
+      username: postgres
+      password: postgres
