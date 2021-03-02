@@ -3,7 +3,7 @@ package by.bsuir.project.service.impl;
 import by.bsuir.project.model.User;
 import by.bsuir.project.model.UserRole;
 import by.bsuir.project.repository.UserRepository;
-import by.bsuir.project.service.UserService;
+import by.bsuir.project.service.interfaces.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

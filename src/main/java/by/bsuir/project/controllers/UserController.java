@@ -1,7 +1,7 @@
 package by.bsuir.project.controllers;
 
 import by.bsuir.project.model.User;
-import by.bsuir.project.service.UserService;
+import by.bsuir.project.service.interfaces.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

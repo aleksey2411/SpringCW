@@ -1,4 +1,4 @@
-package by.bsuir.project.service;
+package by.bsuir.project.service.interfaces;
 
 import by.bsuir.project.model.User;
 
